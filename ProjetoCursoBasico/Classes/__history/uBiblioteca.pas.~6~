@@ -1,0 +1,20 @@
+unit uBiblioteca;
+
+interface
+uses
+  System.IniFiles;
+
+  procedure SetValorIni(pLocal, pSessao, pSuSessao, pValor: string);
+
+implementation
+procedure SetValorIni(pLocal, pSessao, pSuSessao, pValor: string);
+var
+  vArquivo : TIniFile;
+begin
+  vArquivo := TIniFile.Create(pLocal);
+
+  vArquivo.WriteString(pSessao, pSubSessao, pValor);
+
+  vArquivo.Free;
+end;
+end.

@@ -1,0 +1,15 @@
+inherited FormCadastroPai1: TFormCadastroPai1
+  Caption = 'FormCadastroPai1'
+  ClientHeight = 162
+  ClientWidth = 488
+  ExplicitWidth = 500
+  ExplicitHeight = 200
+  TextHeight = 15
+  inherited pnCabecalho: TPanel
+    Width = 488
+    inherited btnSair: TBitBtn
+      Left = 413
+      ExplicitLeft = 413
+    end
+  end
+end

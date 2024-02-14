@@ -1,0 +1,43 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2024/01/25 17:15:58.000.847,=C:\Users\janai\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/01/25 17:17:31.000.184,=C:\Users\janai\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/01 12:30:44.000.303,=C:\Users\janai\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/05 12:25:35.000.373,=C:\Users\janai\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/05 13:41:59.000.154,C:\Users\janai\OneDrive\Desktop\DelphiSoft\ProjetoCursoBasico\Forms\uFormMain.pas=C:\Users\janai\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2024/02/05 13:41:59.000.154,C:\Users\janai\OneDrive\Desktop\DelphiSoft\ProjetoCursoBasico\Forms\uFormMain.dfm=C:\Users\janai\OneDrive\Documentos\Embarcadero\Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>2024/02/05 13:42:15.000.897,C:\Users\janai\OneDrive\Desktop\DelphiSoft\ProjetoCursoBasico\prjCursoBasico.dproj=C:\Users\janai\OneDrive\Documentos\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>2024/02/05 16:03:06.000.682,=D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2024/02/05 16:44:53.000.516,D:\Delphi\Soft\ProjetoCursoBasico\Unit1.dfm=D:\Delphi\Soft\ProjetoCursoBasico\Forms\uDmDados.dfm</Transaction>
+    <Transaction>2024/02/05 16:44:53.000.516,D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas=D:\Delphi\Soft\ProjetoCursoBasico\Forms\uDmDados.pas</Transaction>
+    <Transaction>2024/02/05 16:58:16.000.591,=D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2024/02/05 16:59:19.000.850,D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas=D:\Delphi\Soft\ProjetoCursoBasico\Classes\uBiblioteca.pas</Transaction>
+    <Transaction>2024/02/05 17:31:35.000.868,=D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2024/02/05 17:33:02.000.433,D:\Delphi\Soft\ProjetoCursoBasico\Unit1.dfm=D:\Delphi\Soft\ProjetoCursoBasico\Forms\uFormConfigBanco.dfm</Transaction>
+    <Transaction>2024/02/05 17:33:02.000.433,D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas=D:\Delphi\Soft\ProjetoCursoBasico\Forms\uFormConfigBanco.pas</Transaction>
+    <Transaction>2024/02/06 16:05:28.000.112,=D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2024/02/06 16:07:33.000.011,D:\Delphi\Soft\ProjetoCursoBasico\Forms\uFormCadastroPai.dfm=D:\Delphi\Soft\ProjetoCursoBasico\Unit1.dfm</Transaction>
+    <Transaction>2024/02/06 16:07:33.000.011,D:\Delphi\Soft\ProjetoCursoBasico\Forms\uFormCadastroPai.pas=D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2024/02/07 10:26:58.000.340,=D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2024/02/07 10:28:11.000.915,D:\Delphi\Soft\ProjetoCursoBasico\Forms\uFormCadastroCliente.dfm=D:\Delphi\Soft\ProjetoCursoBasico\Unit1.dfm</Transaction>
+    <Transaction>2024/02/07 10:28:11.000.915,D:\Delphi\Soft\ProjetoCursoBasico\Forms\uFormCadastroCliente.pas=D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2024/02/08 21:25:22.000.866,=D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2024/02/08 21:25:51.000.836,D:\Delphi\Soft\ProjetoCursoBasico\Unit1.dfm=D:\Delphi\Soft\ProjetoCursoBasico\Forms\uFormCadastroEstado.dfm</Transaction>
+    <Transaction>2024/02/08 21:25:51.000.836,D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas=D:\Delphi\Soft\ProjetoCursoBasico\Forms\uFormCadastroEstado.pas</Transaction>
+    <Transaction>2024/02/08 22:25:27.000.331,=D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2024/02/08 22:26:25.000.881,D:\Delphi\Soft\ProjetoCursoBasico\Unit1.pas=D:\Delphi\Soft\ProjetoCursoBasico\Forms\uFormCadastroCidade.pas</Transaction>
+    <Transaction>2024/02/08 22:26:25.000.883,D:\Delphi\Soft\ProjetoCursoBasico\Unit1.dfm=D:\Delphi\Soft\ProjetoCursoBasico\Forms\uFormCadastroCidade.dfm</Transaction>
+    <Transaction>2024/02/13 12:17:01.000.501,=D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2024/02/13 12:17:38.000.941,D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Shared\uLookUp.pas=D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2024/02/13 12:17:38.000.941,D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Shared\uLookUp.dfm=D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Unit1.dfm</Transaction>
+    <Transaction>2024/02/13 16:22:52.000.414,=D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2024/02/13 16:22:54.000.073,=D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Unit2.pas</Transaction>
+    <Transaction>2024/02/13 16:28:34.000.199,D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Forms\uFormMain.pas=</Transaction>
+    <Transaction>2024/02/13 16:28:53.000.838,D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Unit2.dfm=D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Forms\uFormMain.dfm</Transaction>
+    <Transaction>2024/02/13 16:28:53.000.838,D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Unit2.pas=D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Forms\uFormMain.pas</Transaction>
+    <Transaction>2024/02/13 18:38:21.147,=D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Unit1.pas</Transaction>
+    <Transaction>2024/02/13 18:42:11.655,D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Forms\uFormFiltroPai.dfm=D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Unit1.dfm</Transaction>
+    <Transaction>2024/02/13 18:42:11.655,D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Forms\uFormFiltroPai.pas=D:\Delphi\Projetos\Curso Softplan\ProjetoCursoBasico\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
